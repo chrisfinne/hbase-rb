@@ -45,6 +45,12 @@ For instance, when using HBase 0.90.4:
 gem 'hbase-rb', '0.90.4'
 ```
 
+or HBase 0.94.9:
+
+```ruby
+gem 'hbase-rb', '0.94.9'
+```
+
 ## Usage
 
 This library simply exposes the generated Ruby code from Thrift.
